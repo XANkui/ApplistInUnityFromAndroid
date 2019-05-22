@@ -1,0 +1,2 @@
+# ApplistInUnityFromAndroid
+通过封装Android的aar包，获取设备的所有安装应用的信息，把获得的信息展示在Unity中，其中APP的Icon也在信息内获得到
